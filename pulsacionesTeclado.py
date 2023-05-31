@@ -8,5 +8,5 @@ def press_capslock():
     ctypes.windll.user32.keybd_event(capslock_keycode, 0, 0, 0)  # Pulsar la tecla
     ctypes.windll.user32.keybd_event(capslock_keycode, 0, 2, 0)  # Soltar la tecla
 
-# Ejemplo de uso
+
 press_capslock()
