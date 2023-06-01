@@ -8,4 +8,7 @@ https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 
 # Virtual-KeyCodes: Modulo Phyton
 
+Ver documentación:
+https://pyautogui.readthedocs.io/en/latest/
+
 
